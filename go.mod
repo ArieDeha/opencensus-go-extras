@@ -1,4 +1,4 @@
-module github.com/hellofresh/opencensus-go-extras
+module github.com/ArieDeha/opencensus-go-extras
 
 go 1.12
 
